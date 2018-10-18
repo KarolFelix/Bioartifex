@@ -1,2 +1,0 @@
-# Bioartifex
-Mejores arquitectos
